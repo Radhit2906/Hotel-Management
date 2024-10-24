@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Semester%204/PBOMateri/HotelManagement/src/dao/GuestDAO.java</file>
+            <file>file:/D:/Semester%204/PBOMateri/HotelManagement/src/util/DBConnection.java</file>
+            <file>file:/D:/Semester%204/PBOMateri/HotelManagement/src/dao/BookingDAO.java</file>
+            <file>file:/D:/Semester%204/PBOMateri/HotelManagement/src/view/RoomManagementPanel.java</file>
+            <file>file:/D:/Semester%204/PBOMateri/HotelManagement/src/view/CheckInOutPanel.java</file>
+            <file>file:/D:/Semester%204/PBOMateri/HotelManagement/src/Controller/BookingController.java</file>
+            <file>file:/D:/Semester%204/PBOMateri/HotelManagement/src/Model/Room.java</file>
+            <file>file:/D:/Semester%204/PBOMateri/HotelManagement/src/Model/Booking.java</file>
+            <file>file:/D:/Semester%204/PBOMateri/HotelManagement/src/view/GuestManagementPanel.java</file>
+            <file>file:/D:/Semester%204/PBOMateri/HotelManagement/src/view/BookingPanel.java</file>
+            <file>file:/D:/Semester%204/PBOMateri/HotelManagement/src/Model/Guest.java</file>
+            <file>file:/D:/Semester%204/PBOMateri/HotelManagement/src/hotelmanagement/HotelManagementApp.java</file>
+            <file>file:/D:/Semester%204/PBOMateri/HotelManagement/src/dao/RoomDAO.java</file>
+            <file>file:/D:/Semester%204/PBOMateri/HotelManagement/src/Controller/CheckInOutController.java</file>
+            <file>file:/D:/Semester%204/PBOMateri/HotelManagement/src/Controller/RoomController.java</file>
+            <file>file:/D:/Semester%204/PBOMateri/HotelManagement/src/view/MainFrame.java</file>
+            <file>file:/D:/Semester%204/PBOMateri/HotelManagement/src/Controller/GuestController.java</file>
+        </group>
+    </open-files>
+</project-private>
